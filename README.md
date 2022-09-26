@@ -1,12 +1,10 @@
-# Default "No" Question Dialog 
+# xinput mapper
 
-This example shows how to set the default option to "No" when presenting a [Question Dialog](https://wails.io/docs/reference/runtime/dialog#messagedialog) to a user on Windows.
+wraps  `xinput map-to-output` in a go binary with frontend
 
 ## Supported Platforms
 
-- [x] Windows
-- [ ] macOS
-- [ ] Linux
+- [x] Linux
 
 
 
