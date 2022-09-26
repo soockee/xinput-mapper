@@ -16,7 +16,7 @@ func main() {
 
 	// Create application with options
 	err := wails.Run(&options.App{
-		Title:            "canceltest",
+		Title:            "xinput mapper",
 		Width:            600,
 		Height:           400,
 		Assets:           assets,

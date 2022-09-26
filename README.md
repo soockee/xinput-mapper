@@ -9,3 +9,4 @@ wraps  `xinput map-to-output` in a go binary with frontend
 
 
 
+![](xinput-mapper.gif)
